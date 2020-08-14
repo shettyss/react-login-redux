@@ -1,7 +1,7 @@
-#Sample login page
+## command to install node module
 
-#command to install node module
 npm install
 
-#command to start app
+## command to run app
+
 npm start
